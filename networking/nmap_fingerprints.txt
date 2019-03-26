@@ -1,0 +1,6 @@
+match awind-wppib m|^wppib\0\0\x10\0\0\0\0$| p/Awind scdecapp stream/ d/specialized/ cpe:/h:awind/
+##############################NEXT PROBE##############################
+Probe TCP awindAssociat q|wppaliveROCK\n|
+# rarity 8
+ports 389,3268
+match awind-associate m|^wppaliveROLL$|s p/Awind scdecapp association/ d/specialized/ cpe:/h:awind/
