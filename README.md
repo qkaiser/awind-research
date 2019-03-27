@@ -49,7 +49,7 @@ This list is non-exhaustive as it is based on devices observed on the public Int
 * [Man-in-the-conference-room - Part I (Intro)](https://qkaiser.github.io/pentesting/2019/03/25/awind-device/)
 * [Man-in-the-conference-room - Part II (Hardware Hacking)](https://qkaiser.github.io/pentesting/2019/03/25/awind-device-hardware/)
 * [Man-in-the-conference-room - Part III (Network Assessment)](https://qkaiser.github.io/pentesting/2019/03/26/awind-device-network/)
-* [Man-in-the-conference-room - Part IV (Vulnerability Research & Development)](#)
+* [Man-in-the-conference-room - Part IV (Vulnerability Research & Development)](https://qkaiser.github.io/pentesting/2019/03/27/awind-device-vrd/)
 * [Man-in-the-conference-room - Part V (Huntin OEMs)](#)
 * [Man-in-the-conference-room - Part VI (Conclusion)](#)
 
