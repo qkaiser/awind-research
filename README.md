@@ -43,6 +43,20 @@ The following devices were OEM'ed by Awind and are therefore affected by the sam
 
 This list is non-exhaustive as it is based on devices observed on the public Internet. If you are aware of other brand/model, just shoot me an email.
 
+#### Known Default Creds
+
+Default credentials exported from installation manuals.
+
+| Manufacturer | Username | Password |
+| --------------- | --------- | ------- |
+| Airmedia | admin | admin |
+| Extron | admin | configure |
+| Teqavit | admin | Admin&11 |
+| Infocus | admin | admin |
+| Barco | admin | admin |
+| Newline | admin | admin |
+
+
 
 ## References
 
