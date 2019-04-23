@@ -64,7 +64,5 @@ Default credentials exported from installation manuals.
 * [Man-in-the-conference-room - Part II (Hardware Hacking)](https://qkaiser.github.io/pentesting/2019/03/25/awind-device-hardware/)
 * [Man-in-the-conference-room - Part III (Network Assessment)](https://qkaiser.github.io/pentesting/2019/03/26/awind-device-network/)
 * [Man-in-the-conference-room - Part IV (Vulnerability Research & Development)](https://qkaiser.github.io/pentesting/2019/03/27/awind-device-vrd/)
-* [Man-in-the-conference-room - Part V (Huntin OEMs)](#)
-* [Man-in-the-conference-room - Part VI (Conclusion)](#)
-
-Note: This list will be completed as blog posts are released.
+* [Man-in-the-conference-room - Part V (Huntin OEMs)](https://qkaiser.github.io/pentesting/2019/03/28/awind-device-oemhunt/)
+* [Man-in-the-conference-room - Part VI (Conclusion)](https://qkaiser.github.io/pentesting/2019/04/23/awind-device-conclusion/)
